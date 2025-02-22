@@ -1,27 +1,22 @@
-Water Quality Analysis
+# **Water Quality Analysis**
+## **Overview**
+This project focuses on analyzing and predicting water quality in Pakistan using mathematical models.
 
-Overview
+## **Dataset**
+The dataset includes water quality parameters collected from major cities in Pakistan, featuring:
+- pH, Dissolved Oxygen (DO), Turbidity, TDS, BOD, COD
+- Heavy metals (Arsenic, Lead, Copper, Zinc)
+- Microbiological indicators (Fecal Coliform, Total Coliform)
+- Geospatial Data (Latitude & Longitude)
 
-This project focuses on analyzing and predicting water quality in Pakistan using mathematical models and machine learning techniques.
+## **Libraries Used**
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- statsmodels
 
-Libraries Used
-
-pandas
-
-numpy
-
-scikit-learn
-
-matplotlib
-
-seaborn
-
-statsmodels
-
-Resources
-
-Water quality datasets (collected from PCRWR)
-
-Jupyter Notebook / Google Colab for implementation
-
-GitHub for version control
+## **Resources**
+- Water quality datasets (collected from PCRWR)
+- Google Colab for implementation
+- GitHub for version control
