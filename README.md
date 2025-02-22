@@ -1,4 +1,5 @@
-# **Water Quality Analysis**
+# **Mathematical Modeling for Environmental Decision Making**
+
 ## **Overview**
 This project focuses on analyzing and predicting water quality in Pakistan using mathematical models.
 
